@@ -38,7 +38,7 @@ Esta app corre directamente en tu teléfono usando **Expo Go**, sin necesidad de
 Aqui debajo tiene una imagen de la interfaz general del link que lo lleva al Snack de ExpoDev:
 
 <p align="center">
-  <img src="imagenSnack.png" alt="Expo Go" width="220"/>
+  <img src="imagenSnack.png" alt="Expo Go" width="600"/>
 </p>
 
 > como puede ver en la imagen se ven las opciones antes mencionadas a la derecha.

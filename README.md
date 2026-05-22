@@ -30,7 +30,7 @@ Esta app corre directamente en tu teléfono usando **Expo Go**, sin necesidad de
 2. Escanea el siguiente QR con la app de Expo Go:
 
 <p align="center">
-  <img src="qr.png" alt="QR Expo Go" width="220"/>
+  <img src="QrExpoGo.png" alt="QR Expo Go" width="220"/>
 </p>
 
 > El QR abre el Snack de Expo donde está alojado el proyecto. No necesitas cuenta ni configuración adicional.

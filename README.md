@@ -18,23 +18,30 @@ Una aplicación móvil construida con **React Native + Expo** que funciona como 
 
 ---
 
-## 📱 Ver la app en tu celular
+## 📱 Ver la app
 
 Esta app corre directamente en tu teléfono usando **Expo Go**, sin necesidad de instalar ningún APK ni pasar por una tienda de apps.
 
 ### Pasos:
 
-1. Descarga **Expo Go** en tu celular:
+1. Ingresar al siguiente link: [SnackExpoGo](https://snack.expo.dev/@frankix/app-de-quiz)
+
+2. En este link se vera el proyecto subido profesor, lo que debe hacer si quiere verlo en el celular es:
+   1. Descarga **Expo Go** en su celular:
    - [Android — Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
    - [iOS — App Store](https://apps.apple.com/app/expo-go/id982107779)
+   
+   2. En el link que ingreso presionar a la derecha donde dice **My Device** y escanear ese QR con la app **Expo Go**
 
-2. Escanea el siguiente QR con la app de Expo Go:
+3. Si desea tambien puede visualizarlo directamente en su PC simplemente al abrir el link presionando en la derecha donde dice **Web** y se visualizara
+
+Aqui debajo tiene una imagen de la interfaz general del link que lo lleva al Snack de ExpoDev:
 
 <p align="center">
-  <img src="QrExpoGo.png" alt="QR Expo Go" width="220"/>
+  <img src="imagenSnack.png" alt="Expo Go" width="220"/>
 </p>
 
-> El QR abre el Snack de Expo donde está alojado el proyecto. No necesitas cuenta ni configuración adicional.
+> como puede ver en la imagen se ven las opciones antes mencionadas a la derecha.
 
 ---
 
